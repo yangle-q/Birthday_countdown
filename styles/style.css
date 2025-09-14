@@ -15,7 +15,7 @@
           #03ffff);
   --trans: all 400ms;
   /* Light theme */
-  --c-light-text: #000;
+  --c-light-text: #333;
   --c-light-background: #d9d9d9;
   --c-light-interactive: mediumvioletred;
   /* Dark Theme */
@@ -44,9 +44,9 @@ body {
   transition: var(--trans);
   cursor: auto;
   /* Make the light theme the default */
-  --c-text: var(--light-text);
-  --c-background: var(--c-light-background);
-  --c-interactive: var(--c-light-interactive);
+  --c-text: var(--dark-text);
+  --c-background: var(--c-dark-background);
+  --c-interactive: var(--c-dark-interactive);
   color: var(--c-text);
   background-color: var(--c-background);
 }
