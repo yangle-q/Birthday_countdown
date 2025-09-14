@@ -6,9 +6,9 @@
   padding: 0;
   user-select: none;
   --bg: linear-gradient(90deg,
-          #FFB800,
-          #E4FF1A,
-          #F1F5F2);
+          #1a2a6c,
+          #b21f1f,
+          #fdbb2d);
   --bgdark: linear-gradient(90deg,
           #ffe100,
           #fe03b9,
