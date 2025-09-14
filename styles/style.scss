@@ -101,7 +101,7 @@ body {
         font-weight: normal;
         letter-spacing: 0.025rem;
         text-transform: uppercase;
-        font-size: 1.5rem;
+        font-size: 2.0rem;
      
     }
 
@@ -142,6 +142,10 @@ body {
             h1 {
                 font-size: calc(3.5rem * var(--smaller));
             }
+            
+            h2 {
+                font-size: calc(3.5rem * var(--smaller));
+            }
 
             li {
                 font-size: calc(2.125rem * var(--smaller));
@@ -175,6 +179,10 @@ body {
                 font-size: calc(2.5rem * var(--smaller));
             }
 
+            h2 {
+                font-size: calc(2.5rem * var(--smaller));
+            }
+
             li {
                 font-size: calc(2.125rem * var(--smaller));
             }
@@ -198,6 +206,10 @@ body {
             padding: 2rem;
 
             h1 {
+                font-size: calc(5vw * var(--smaller));
+            }
+
+            h2 {
                 font-size: calc(5vw * var(--smaller));
             }
 
