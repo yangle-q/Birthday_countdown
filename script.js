@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
             yyyy = today.getFullYear(),
             nextYear = yyyy + 1,
         // Replace line 30(monthDay) with yours
-            monthDay = "06/14/",
+            monthDay = "08/07/",
             birthday = monthDay + yyyy;
 
         today = mm + "/" + dd + "/" + yyyy;
