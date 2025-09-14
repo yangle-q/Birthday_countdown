@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     
         const checkbox = document.querySelector('.dark-mode-checkbox');
 
-        checkbox.checked = localStorage.getItem('darkMode') === 'true';
+        checkbox.checked = localStorage.getItem('darkMode') === 'false';
 
         checkbox.addEventListener('change', function (event) {
             localStorage.setItem('darkMode', event.currentTarget.checked);
