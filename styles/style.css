@@ -15,7 +15,7 @@
   --trans: all 400ms;
   /* Light theme */
   --c-light-text: #333;
-  --c-light-background: #000;
+  --c-light-background: #fff;
   --c-light-interactive: mediumvioletred;
   /* Dark Theme */
   --c-dark-text: #fff;
