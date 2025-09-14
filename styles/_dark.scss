@@ -3,14 +3,13 @@
     --c-text: var(--c-light-text);
     --c-background: var(--c-light-background);
     --c-interactive: var(--c-light-interactive);
-    $bg: #000000;
+    $bg: #05012a;
     transition: var(--trans);
     background: $bg;
 
     .container {
         position: relative;
-        box-shadow: 41px 41px 82px #000000,
-            -41px -41px 82px #01014e;
+
 
         h1,
         h2,
