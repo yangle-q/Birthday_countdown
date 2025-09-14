@@ -43,9 +43,9 @@ body {
   transition: var(--trans);
   cursor: auto;
   /* Make the light theme the default */
-  --c-text: var(--c-dark-text);
-  --c-background: var(--c-dark-background);
-  --c-interactive: var(--c-dark-interactive);
+  --c-text: var(--c-light-text);
+  --c-background: var(--c-light-background);
+  --c-interactive: var(--c-light-interactive);
   color: var(--c-text);
   background-color: var(--c-background);
 }
