@@ -108,7 +108,7 @@ body {
     font-size: calc(3.5rem * var(--smaller));
   }
   .theme-container .container h2 {
-    font-size: calc(1.4rem * var(--smaller));
+    font-size: calc(1.6rem * var(--smaller));
   }
   .theme-container .container li {
     font-size: calc(2.125rem * var(--smaller));
@@ -135,7 +135,7 @@ body {
     font-size: calc(2.5rem * var(--smaller));
   }
   .theme-container .container h2 {
-    font-size: calc(1rem * var(--smaller));
+    font-size: calc(1.1rem * var(--smaller));
   }
   .theme-container .container li {
     font-size: calc(2.125rem * var(--smaller));
