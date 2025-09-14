@@ -198,6 +198,7 @@ body {
   box-shadow: 41px 41px 82px #000000, -41px -41px 82px #01014e;
 }
 .dark-mode-checkbox:checked ~ .theme-container .container h1,
+.dark-mode-checkbox:checked ~ .theme-container .container h2,
 .dark-mode-checkbox:checked ~ .theme-container .container li,
 .dark-mode-checkbox:checked ~ .theme-container .container li > span {
   background: var(--bgdark);
