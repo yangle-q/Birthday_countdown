@@ -6,8 +6,8 @@
   padding: 0;
   user-select: none;
   --bg: linear-gradient(180deg,
-          #0b0b0b,
-          #848383);
+          #c21500,
+          #ffc500);
   --bgdark: linear-gradient(90deg,
           #ffe100,
           #fe03b9,
