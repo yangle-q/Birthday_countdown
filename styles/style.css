@@ -59,6 +59,7 @@ body {
   box-shadow: 41px 41px 82px #b8b8b8, -41px -41px 82px #fafafa;
 }
 .theme-container .container h1,
+.theme-container .container h2,
 .theme-container .container li,
 .theme-container .container #countdown > span {
   background: var(--bg);
@@ -71,6 +72,12 @@ body {
   letter-spacing: 0.125rem;
   text-transform: uppercase;
   font-size: 4.5rem;
+}
+.theme-container h2 {
+  font-weight: normal;
+  letter-spacing: 0.025rem;
+  text-transform: uppercase;
+  font-size: 1.5rem;
 }
 .theme-container li {
   display: inline-block;
