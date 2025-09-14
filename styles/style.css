@@ -5,10 +5,9 @@
   margin: 0;
   padding: 0;
   user-select: none;
-  --bg: linear-gradient(90deg,
-          #833ab4,
-          #fd1d1d,
-          #fcb045);
+  --bg: linear-gradient(180deg,
+          #0b0b0b,
+          #848383);
   --bgdark: linear-gradient(90deg,
           #ffe100,
           #fe03b9,
