@@ -25,7 +25,7 @@
 }
 
 @font-face {
-  font-family: 'Certain Unkown Font';
+  font-family: "Certain Unkown Font";
   src: url("https://files.yoxo.top/web_font.woff2")format('woff2');
   font-weight: normal;
   font-style: normal;
@@ -39,7 +39,7 @@ body {
 }
 
 body {
-  font-family: 'Certain Unkown Font', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: "Certain Unkown Font", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   display: flex;
   flex-direction: column;
 }
